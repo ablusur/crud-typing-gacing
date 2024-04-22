@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+/* typing tesr start */
+h1 {
+  text-align: center;
+  background-color: teal;
+  padding: 50px 10px;
+  color: orange;
+}
+
+/* typing tesr end */
+
+/* number gacing game start */
+h2 {
+  text-align: center;
+}
+.one,
+.two {
+  text-align: center;
+}
+.two {
+  display: none;
+}
+.one p {
+  color: red;
+}
+
+/* number gacing game end */
+
+/* crud end */
+
+.crud {
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
