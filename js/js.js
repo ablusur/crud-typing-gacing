@@ -14,7 +14,6 @@ if(typing < typed.length){
     type.innerHTML = typedarr.join("");
     if(typedarr.length == 0){
         typing = 0;
-
     }
 }
 }
